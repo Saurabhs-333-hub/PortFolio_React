@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PortFolio_React/static/css/main.8638d5d6.css",
+    "main.js": "/PortFolio_React/static/js/main.3b01b2af.js",
+    "static/media/man.gif": "/PortFolio_React/static/media/man.752c182ec6869a522541.gif",
+    "static/media/Laptop.gif": "/PortFolio_React/static/media/Laptop.a8292acde593e1436c50.gif",
+    "static/media/Saurabh.jpeg": "/PortFolio_React/static/media/Saurabh.5ff1575ee46e15cd452c.jpeg",
+    "index.html": "/PortFolio_React/index.html",
+    "main.8638d5d6.css.map": "/PortFolio_React/static/css/main.8638d5d6.css.map",
+    "main.3b01b2af.js.map": "/PortFolio_React/static/js/main.3b01b2af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8638d5d6.css",
+    "static/js/main.3b01b2af.js"
+  ]
+}
